@@ -28,6 +28,11 @@ body {
 }
 .content a:link, .content a:visited{
   color:#f1f1f1;
+  text-decoration: none;
+  font-weight: bold;
+}
+.content a:hover{
+  text-decoration: underline;
 }
 
 .boxing{
@@ -36,6 +41,11 @@ body {
 }
 .boxing a:link, .boxing a:visited{
   color:#f1f1f1;
+  text-decoration: none;
+  font-weight: bold;
+}
+.boxing a:hover{
+  text-decoration: underline;
 }
 
 .word {
